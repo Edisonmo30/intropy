@@ -189,3 +189,6 @@ numIndice = int(input("ingrese valor 1:  "))
 numCantidadSubRadical = int(input("ingrese valor 2:  "))
 resultado = operAritmetic(numIndice, numCantidadSubRadical, 'sqrt')
 print(f"La raíz es: {resultado}")
+
+#Prueba de cambio para este archivo
+print("Estamos haciendo prueba con el sistema de control de versiones")
